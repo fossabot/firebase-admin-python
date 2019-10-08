@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/firebase/firebase-admin-python.svg?branch=master)](https://travis-ci.org/firebase/firebase-admin-python)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj420247%2Ffirebase-admin-python.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fj420247%2Ffirebase-admin-python?ref=badge_shield)
 
 # Firebase Admin Python SDK
 
@@ -10,6 +11,9 @@
  * [Supported Python Versions](#supported-python-versions)
  * [Documentation](#documentation)
  * [License and Terms](#license-and-terms)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj420247%2Ffirebase-admin-python.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fj420247%2Ffirebase-admin-python?ref=badge_large)
 
 ## Overview
 
